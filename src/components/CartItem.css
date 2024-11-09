@@ -1,0 +1,31 @@
+/* src/styles/CartItem.css */
+.cart-item {
+    border-bottom: 1px solid #ddd;
+    padding: 1em 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .cart-item h4 {
+    margin: 0;
+    font-size: 1.1em;
+  }
+  
+  .cart-item p {
+    margin: 0.5em 0;
+  }
+  
+  .cart-item input {
+    width: 50px;
+    text-align: center;
+  }
+  
+  .remove-button {
+    background-color: #ff6347;
+    color: white;
+    padding: 0.25em 0.5em;
+    border: none;
+    cursor: pointer;
+  }
+  

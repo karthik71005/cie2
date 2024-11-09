@@ -1,0 +1,23 @@
+/* src/styles/Cart.css */
+.cart {
+  padding: 1em;
+}
+
+.cart h2 {
+  margin-bottom: 1em;
+}
+
+.cart-total {
+  margin-top: 2em;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.checkout-button {
+  padding: 0.5em 1em;
+  background-color: #ff6347;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 1em;
+}

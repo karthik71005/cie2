@@ -1,0 +1,29 @@
+/* src/styles/Checkout.css */
+.checkout {
+    padding: 1em;
+  }
+  
+  .checkout-section {
+    margin-bottom: 1.5em;
+  }
+  
+  .checkout-section input {
+    display: block;
+    width: 100%;
+    padding: 0.5em;
+    margin: 0.5em 0;
+  }
+  
+  .checkout-total {
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  .place-order-button {
+    padding: 0.5em 1em;
+    background-color: #ff6347;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
